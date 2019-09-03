@@ -1,5 +1,5 @@
 # devops-aula04
-Rei Leão
-Moana
-Frozen
-Todos da Disney no geral
+Rei Leão </br>
+Moana </br>
+Frozen </br>
+Todos da Disney no geral </br>
